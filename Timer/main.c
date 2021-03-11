@@ -1,4 +1,4 @@
-//Tetje Jannes Schulz❤ Lena
+//Tetje Jannes Schulz
 
 #include <stdio.h>
 #include <Windows.h>
