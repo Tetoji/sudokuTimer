@@ -1,3 +1,5 @@
+//Tetje Jannes Schulz
+
 #include <stdio.h>
 #include <Windows.h>
 #include <pthread.h>
