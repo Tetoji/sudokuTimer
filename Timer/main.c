@@ -1,4 +1,4 @@
-//Tetje Jannes Schulz efsfsefsf
+//Tetje Jannes Schulz
 
 #include <stdio.h>
 #include <Windows.h>
