@@ -137,6 +137,7 @@ int main ()
     
     // Stop measuring time and calculate the elapsed time
     time(&end);     //Stop
+
     time_t second = end - begin;
 
     timeCount(second);  //function from above
